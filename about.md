@@ -15,7 +15,7 @@ A part of The Creator. I believe.
 
 ### More Information
 
-We all are part of The Creator. You'd better to accept that. 
+We all are part of The Creator. You'd better accept that. 
 
 ### Contact me
 
