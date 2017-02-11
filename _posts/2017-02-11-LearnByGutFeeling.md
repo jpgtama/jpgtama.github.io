@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Learn by feeling
+category: ideas
 ---
 
 Many times, I came to a problem: too many things to learn. For example, I want to add a function to maven build, I found I need to 
