@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A part of God. I believe. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We all are part of God. You'd better to accept that. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[evanxyhu@163.com](mailto:evanxyhu@163.com)
